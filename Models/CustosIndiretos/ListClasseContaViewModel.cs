@@ -1,0 +1,13 @@
+﻿using FarmPlannerAPICore.Models.Enum;
+
+namespace FarmPlannerAPICore.Models.CustosIndiretos
+{
+    public class ListClasseContaViewModel
+    {
+        public int Id { get; set; }
+        public string Descricao { get; set; }
+
+        public int TipoClasseConta { get; set; }
+        public string DescTipo { get; set; }
+    }
+}
