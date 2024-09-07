@@ -10,8 +10,11 @@ namespace FarmPlannerAPICore.Models.Produto
 
         public int IdFabricante { get; set; }
 
-        public int IdPrincipioAtivo { get; set; }
-        public int unidadeBasica { get; set; }
+        //public int IdPrincipioAtivo { get; set; }
+        public int idunidade { get; set; }
+
         public int Id { get; set; }
+
+        public string? uid { get; set; }
     }
 }

@@ -14,5 +14,6 @@ namespace FarmPlannerAPICore.Models.FarmLog
         public string transacao { get; set; }
 
         public string? username { get; set; } = null;
+        public string idconta { get; set; }
     }
 }

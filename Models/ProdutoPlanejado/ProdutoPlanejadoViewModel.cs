@@ -24,5 +24,7 @@ namespace FarmPlannerAPICore.Models.ProdutoPlanejado
         public decimal TotalProduto { get; set; }
 
         public string idconta { get; set; }
+
+        public string? uid { get; set; }
     }
 }
