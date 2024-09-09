@@ -21,5 +21,7 @@ namespace FarmPlannerAPICore.Models.MaquinaPlanejada
 
         [Precision(18, 2)]
         public decimal QtdCombEstimado { get; set; }
+
+        public string? uid { get; set; }
     }
 }

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FarmPlannerAPICore.Models.MaquinaPlanejada;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,9 +14,11 @@ namespace FarmPlannerAPICore.Models.PlanejamentoOperacao
         public int dae { get; set; }
         public bool plantio { get; set; }
         public decimal area { get; set; }
+        public decimal perc { get; set; }
         public DateTime dataprevista { get; set; }
 
         public ICollection<ProdutosAssistenteViewModel> produtos { get; set; }
+        public ICollection<MaquinasPlanejadaViewModel> maquinas { get; set; }
     }
 
     public class ProdutosAssistenteViewModel
@@ -25,5 +28,11 @@ namespace FarmPlannerAPICore.Models.PlanejamentoOperacao
         public decimal dosagem { get; set; }
         public decimal tamanho { get; set; }
         public decimal percent { get; set; }
+    }
+
+    public class MaquinasPlanejadaViewModel
+    {
+        public int idmaquina { get; set; }
+        public int idmodelo { get; set; }
     }
 }
