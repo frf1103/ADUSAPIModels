@@ -32,5 +32,7 @@ namespace FarmPlannerAPICore.Models.PlanejamentoOperacao
         public string? uid { get; set; }
         public DateTime? datains { get; set; }
         public DateTime? dataup { get; set; }
+
+        public decimal? Percentual { get; set; }
     }
 }

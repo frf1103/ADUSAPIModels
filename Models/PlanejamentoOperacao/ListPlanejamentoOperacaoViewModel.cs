@@ -36,5 +36,6 @@ namespace FarmPlannerAPICore.Models.PlanejamentoOperacao
         public string descvariedade { get; set; }
         public string DescSafra { get; set; }
         public string descconfig { get; set; }
+        public decimal? Percentual { get; set; }
     }
 }
