@@ -5,8 +5,10 @@ namespace FarmPlannerAPICore.Models.PlanejamentoCompra
     public class PlanejamentoCompraViewModel
     {
         public int Id { get; set; }
+
+        public int IdFazenda { get; set; }
         public int IdSafra { get; set; }
-        public int IdProduto { get; set; }
+        public int IdPrincipio { get; set; }
 
         [Precision(18, 2)]
         public decimal QtdNecessaria { get; set; }
@@ -24,5 +26,7 @@ namespace FarmPlannerAPICore.Models.PlanejamentoCompra
         public decimal Saldo { get; set; }
 
         public string idconta { get; set; }
+
+        public string uid { get; set; }
     }
 }

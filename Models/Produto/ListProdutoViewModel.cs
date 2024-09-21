@@ -20,5 +20,7 @@ namespace FarmPlannerAPICore.Models.Produto
         public string descfab { get; set; }
 
         public string descgrupo { get; set; }
+
+        public string? tipo { get; set; }
     }
 }

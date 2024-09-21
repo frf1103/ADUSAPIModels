@@ -7,5 +7,7 @@
         public int IdSafra { get; set; }
         public int IdFazenda { get; set; }
         public string idconta { get; set; }
+
+        public string uid { get; set; }
     }
 }

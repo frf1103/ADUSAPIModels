@@ -16,5 +16,7 @@ namespace FarmPlannerAPICore.Models.Produto
         public int Id { get; set; }
 
         public string? uid { get; set; }
+
+        public int? tipo { get; set; }
     }
 }
