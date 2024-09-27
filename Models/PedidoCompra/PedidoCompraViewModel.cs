@@ -19,6 +19,8 @@ namespace FarmPlannerAPICore.Models.PedidoCompra
 
         public decimal total { get; set; }
 
+        public DateTime datapedido { get; set; }
+
         public string? observacao { get; set; }
 
         public string idconta { get; set; }
