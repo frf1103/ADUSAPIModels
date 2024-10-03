@@ -9,5 +9,6 @@
         public string? CodigoCliente { get; set; }
         public string? CodigoExterno { get; set; }
         public string idconta { get; set; }
+        public string uid { get; set; }
     }
 }

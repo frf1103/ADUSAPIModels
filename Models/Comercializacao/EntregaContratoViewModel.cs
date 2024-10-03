@@ -16,5 +16,10 @@ namespace FarmPlannerAPICore.Models.Comercializacao
         public decimal Quantidade { get; set; }
 
         public string idconta { get; set; }
+
+        public string uid { get; set; }
+
+        public DateTime datains { get; set; }
+        public DateTime dataup { get; set; }
     }
 }

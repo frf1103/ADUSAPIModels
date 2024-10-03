@@ -8,6 +8,7 @@ namespace FarmPlannerAPICore.Models.Comercializacao
 
         public int IdSafra { get; set; }
         public int IdParceiro { get; set; }
+        public int IdFazenda { get; set; }
         public decimal Quantidade { get; set; }
 
         public int IdMoeda { get; set; }
@@ -40,6 +41,7 @@ namespace FarmPlannerAPICore.Models.Comercializacao
         public string descmoeda { get; set; }
         public string descsafra { get; set; }
         public string nomeparceiro { get; set; }
+        public string descfazenda { get; set; }
         public string? NumeroContrato { get; set; }
     }
 }
