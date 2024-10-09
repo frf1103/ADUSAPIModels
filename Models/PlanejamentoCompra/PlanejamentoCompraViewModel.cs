@@ -8,7 +8,7 @@ namespace FarmPlannerAPICore.Models.PlanejamentoCompra
 
         public int IdFazenda { get; set; }
         public int IdSafra { get; set; }
-        public int IdPrincipio { get; set; }
+        public int idproduto { get; set; }
 
         [Precision(18, 2)]
         public decimal QtdNecessaria { get; set; }

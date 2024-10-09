@@ -32,6 +32,11 @@ namespace FarmPlannerAPICore.Models.Comercializacao
         public DateTime DataEntrega { get; set; }
         public DateTime DataPagamento { get; set; }
 
+        public DateTime? DataPedido { get; set; }
+
+        [Precision(18, 2)]
+        public decimal? Frete { get; set; }
+
         [Precision(18, 2)]
         public decimal Descontos { get; set; }
 

@@ -17,5 +17,6 @@ namespace FarmPlannerAPICore.Models.Operacao
         public decimal? Consumo { get; set; }
 
         public string idconta { get; set; }
+        public bool? plantio { get; set; }
     }
 }

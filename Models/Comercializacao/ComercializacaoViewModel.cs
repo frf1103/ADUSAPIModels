@@ -17,6 +17,11 @@ namespace FarmPlannerAPICore.Models.Comercializacao
         [Precision(18, 2)]
         public decimal CBOT { get; set; }
 
+        public DateTime? DataPedido { get; set; }
+
+        [Precision(18, 2)]
+        public decimal? Frete { get; set; }
+
         [Precision(18, 2)]
         public decimal Cambio { get; set; }
 

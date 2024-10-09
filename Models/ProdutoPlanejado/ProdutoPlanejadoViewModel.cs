@@ -11,7 +11,8 @@ namespace FarmPlannerAPICore.Models.ProdutoPlanejado
         public decimal Tamanho { get; set; }
 
         public int IdPlanejamento { get; set; }
-        public int? IdPrincipioAtivo { get; set; }
+
+        //  public int? IdPrincipioAtivo { get; set; }
         public int? IdProduto { get; set; }
 
         [Precision(18, 2)]
