@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\ADUS\ADUSAPI.Models\bin\Debug\net7.0\ADUSAPICore.deps.json
+C:\Users\user\source\repos\ADUS\ADUSAPI.Models\bin\Debug\net7.0\ADUSAPICore.dll
+C:\Users\user\source\repos\ADUS\ADUSAPI.Models\bin\Debug\net7.0\ADUSAPICore.pdb
+C:\Users\user\source\repos\ADUS\ADUSAPI.Models\bin\Debug\net7.0\FBSLIb.dll
+C:\Users\user\source\repos\ADUS\ADUSAPI.Models\bin\Debug\net7.0\FBSLIb.pdb
+C:\Users\user\source\repos\ADUS\ADUSAPI.Models\obj\Debug\net7.0\ADUSAPICore.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ADUS\ADUSAPI.Models\obj\Debug\net7.0\ADUSAPICore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ADUS\ADUSAPI.Models\obj\Debug\net7.0\ADUSAPICore.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ADUS\ADUSAPI.Models\obj\Debug\net7.0\ADUSAPICore.AssemblyInfo.cs
+C:\Users\user\source\repos\ADUS\ADUSAPI.Models\obj\Debug\net7.0\ADUSAPICore.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ADUS\ADUSAPI.Models\obj\Debug\net7.0\ADUSAPICore.csproj.CopyComplete
+C:\Users\user\source\repos\ADUS\ADUSAPI.Models\obj\Debug\net7.0\ADUSAPICore.dll
+C:\Users\user\source\repos\ADUS\ADUSAPI.Models\obj\Debug\net7.0\refint\ADUSAPICore.dll
+C:\Users\user\source\repos\ADUS\ADUSAPI.Models\obj\Debug\net7.0\ADUSAPICore.pdb
+C:\Users\user\source\repos\ADUS\ADUSAPI.Models\obj\Debug\net7.0\ref\ADUSAPICore.dll

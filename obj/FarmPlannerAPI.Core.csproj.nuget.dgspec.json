@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\FarmPlannerAPI.Models\\FarmPlannerAPI.Core.csproj": {}
+    "C:\\Users\\user\\source\\repos\\ADUSAPI.Models\\ADUSAPI.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\FarmPlannerAPI.Models\\FarmPlannerAPI.Core.csproj": {
+    "C:\\Users\\user\\source\\repos\\ADUSAPI.Models\\ADUSAPI.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\FarmPlannerAPI.Models\\FarmPlannerAPI.Core.csproj",
-        "projectName": "FarmPlannerAPI.Core",
-        "projectPath": "C:\\Users\\user\\source\\repos\\FarmPlannerAPI.Models\\FarmPlannerAPI.Core.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\ADUSAPI.Models\\ADUSAPI.Core.csproj",
+        "projectName": "ADUSAPI.Core",
+        "projectPath": "C:\\Users\\user\\source\\repos\\ADUSAPI.Models\\ADUSAPI.Core.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\FarmPlannerAPI.Models\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\ADUSAPI.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

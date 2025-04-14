@@ -1,7 +1,7 @@
-﻿using FarmPlannerAPI.Entities;
+﻿using ADUSAPI.Entities;
 using System.ComponentModel.DataAnnotations;
 
-namespace FarmPlannerAPICore.Models.Localidades
+namespace ADUSAPICore.Models.Localidades
 {
     public class UFViewModel
     {

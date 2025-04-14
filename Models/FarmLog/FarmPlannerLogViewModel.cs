@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FarmPlannerAPICore.Models.FarmLog
+namespace ADUSAPICore.Models.FarmLog
 {
-    public class FarmPlannerLogViewModel
+    public class ADUSLogViewModel
     {
         public int id { get; set; }
         public string uid { get; set; }

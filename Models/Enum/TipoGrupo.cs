@@ -1,4 +1,4 @@
-﻿namespace FarmPlannerAPICore.Models.Enum
+﻿namespace ADUSAPICore.Models.Enum
 {
     public enum TipoGrupo
     {

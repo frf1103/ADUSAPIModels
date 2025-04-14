@@ -1,4 +1,4 @@
-﻿namespace FarmPlannerAPICore.Models.Localidades
+﻿namespace ADUSAPICore.Models.Localidades
 {
     public class ImpUF
     {

@@ -1,4 +1,4 @@
-﻿namespace FarmPlannerAPICore.Models
+﻿namespace ADUSAPICore.Models
 {
     public class PreferUsuViewModel
     {

@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace FarmPlannerAPICore.Models.Moeda
+namespace ADUSAPICore.Models.Moeda
 {
     public class CotacaoMoedaViewModel
     {

@@ -6,13 +6,13 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "FarmPlannerAPICore/1.0.0": {
+      "ADUSAPICore/1.0.0": {
         "dependencies": {
           "FBSLIb": "1.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.20"
         },
         "runtime": {
-          "FarmPlannerAPICore.dll": {}
+          "ADUSAPICore.dll": {}
         }
       },
       "Microsoft.EntityFrameworkCore/7.0.20": {
@@ -134,7 +134,7 @@
     }
   },
   "libraries": {
-    "FarmPlannerAPICore/1.0.0": {
+    "ADUSAPICore/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

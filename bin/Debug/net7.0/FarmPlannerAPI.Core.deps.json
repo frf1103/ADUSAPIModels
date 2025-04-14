@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "FarmPlannerAPI.Core/1.0.0": {
+      "ADUSAPI.Core/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "7.0.20"
         },
         "runtime": {
-          "FarmPlannerAPI.Core.dll": {}
+          "ADUSAPI.Core.dll": {}
         }
       },
       "Microsoft.EntityFrameworkCore/7.0.20": {
@@ -128,7 +128,7 @@
     }
   },
   "libraries": {
-    "FarmPlannerAPI.Core/1.0.0": {
+    "ADUSAPI.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

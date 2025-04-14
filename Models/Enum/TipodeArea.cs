@@ -1,6 +1,6 @@
-﻿namespace FarmPlannerAPI.Entities.Enum
+﻿namespace ADUSAPI.Entities.Enum
 {
-    namespace FarmPlannerAPI.Entities.Enum
+    namespace ADUSAPI.Entities.Enum
     {
         public enum TipodeArea
         {

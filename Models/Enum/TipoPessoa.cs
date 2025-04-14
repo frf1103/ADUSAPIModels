@@ -1,11 +1,24 @@
-﻿namespace FarmPlannerAPI.Entities.Enum
+﻿namespace ADUSAPICore.Models.Enum
 {
-    namespace FarmPlannerAPI.Entities.Enum
+    public enum TipodePessoa
     {
-        public enum TipodePessoa
-        {
-            Física,
-            Jurídica
-        }
+        Física,
+        Jurídica
+    }
+
+    public enum TipoEstadoCivil
+    {
+        Solteiro,
+        Casado,
+        Divorciado,
+        Viuvo,
+        Indiferente
+    }
+
+    public enum TipoSexo
+    {
+        Masculino,
+        Feminino,
+        Indiferente
     }
 }
