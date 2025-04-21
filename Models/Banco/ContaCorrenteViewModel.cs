@@ -8,5 +8,7 @@
         public string ContaBanco { get; set; } = string.Empty;
         public string Titular { get; set; } = string.Empty;
         public int BancoId { get; set; }
+
+        public string? nomebanco { get; set; }
     }
 }
