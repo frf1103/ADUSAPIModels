@@ -13,5 +13,11 @@ namespace ADUSAPICore.Models
         public DateTime ultdata { get; set; }
         public string urlsub { get; set; }
         public string urltransac { get; set; }
+
+        public int? idtransacao { get; set; }
+        public int? idcategoria { get; set; }
+        public string? idconta { get; set; }
+        public string? idparceiro { get; set; }
+        public int? idccusto { get; set; }
     }
 }
