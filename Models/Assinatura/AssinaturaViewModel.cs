@@ -26,7 +26,7 @@ namespace ADUSAPICore.Models.Assinatura
         public StatusAssinatura status { get; set; }
 
         public string? idplataforma { get; set; }
-
+        public string? plataforma { get; set; }
         public string? observacao { get; set; }
     }
 }

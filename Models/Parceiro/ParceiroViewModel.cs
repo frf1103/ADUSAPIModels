@@ -19,9 +19,9 @@ namespace ADUSAPICore.Models.Parceiro
         public string Numero { get; set; }
         public string? Complemento { get; set; }
         public string Bairro { get; set; }
-        public int uf { get; set; }
+        public int iduf { get; set; }
 
-        public int Cidade { get; set; }
+        public int idCidade { get; set; }
         public string Profissao { get; set; }
         public TipoEstadoCivil EstadoCivil { get; set; }
         public string? IdRepresentante { get; set; }

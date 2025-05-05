@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ADUSClient.MovimentoCaixa
+namespace ADUSAPICore.Models.MovimentoCaixa
 {
     public class MovimentoCaixaViewModel
     {
@@ -25,5 +25,6 @@ namespace ADUSClient.MovimentoCaixa
         public string? DescCategoria { get; set; }
         public string idparceiro { get; set; }
         public string? nomeparceiro { get; set; }
+        public string? idmovbanco { get; set; }
     }
 }
