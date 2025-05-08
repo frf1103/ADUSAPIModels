@@ -19,5 +19,11 @@ namespace ADUSAPICore.Models
         public string? idconta { get; set; }
         public string? idparceiro { get; set; }
         public int? idccusto { get; set; }
+        public int? idcategoriataxa { get; set; }
+        public int? idcategoriaant { get; set; }
+        public int? idtransacaotaxa { get; set; }
+        public int? idtransacaoant { get; set; }
+        public int? idtransacaocomiss { get; set; }
+        public int? idcategoriacomiss { get; set; }
     }
 }
