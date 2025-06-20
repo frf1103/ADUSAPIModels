@@ -45,6 +45,7 @@ namespace ADUSAPICore.Models.Parceiro
         public string? nomecidade { get; set; }
         public string? nomeuf { get; set; }
 
-        public string urlafiliado { get; set; }
+        public string? urlafiliado { get; set; }
+        public string? idwallet { get; set; }
     }
 }
