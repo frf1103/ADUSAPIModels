@@ -47,5 +47,7 @@ namespace ADUSAPICore.Models.Parceiro
 
         public string? urlafiliado { get; set; }
         public string? idwallet { get; set; }
+        public string? idwalletcoprodutor { get; set; }
+        public decimal? percomissaocoprodutor { get; set; }
     }
 }

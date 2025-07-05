@@ -18,5 +18,10 @@ namespace ADUSAPICore.Models.Checkout
         public DateTime DataHora { get; set; }
         public string StatusHttp { get; set; }
         public string? Erro { get; set; }
+        public string? idparcela { get; set; }
+
+        public string? nomeparceiro { get; set; }
+        public string? idassinatura { get; set; }
+        public string? nossonumero { get; set; }
     }
 }
