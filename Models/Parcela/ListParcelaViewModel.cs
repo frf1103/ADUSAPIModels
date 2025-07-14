@@ -51,5 +51,6 @@ namespace ADUSAPICore.Models.Parcela
         public string? registro { get; set; }
         public string? billingType { get; set; }
         public int? QuantidadeArvores { get; set; }
+        public bool ischeckout { get; set; }
     }
 }
