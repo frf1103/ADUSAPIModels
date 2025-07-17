@@ -36,5 +36,18 @@ namespace ADUSAPICore.Models.Parceiro
         public string email { get; set; }
         public string? observacao { get; set; }
         public int Sexo { get; set; }
+        public bool? isassinante { get; set; } = true;
+        public bool? isbanco { get; set; } = false;
+        public bool? iscoprodutor { get; set; } = false;
+        public bool? isafiliado { get; set; } = false;
+        public string? idcoprodutor { get; set; }
+        public decimal? percomissao { get; set; }
+        public string? nomecidade { get; set; }
+        public string? nomeuf { get; set; }
+
+        public string? urlafiliado { get; set; }
+        public string? idwallet { get; set; }
+        public string? idwalletcoprodutor { get; set; }
+        public decimal? percomissaocoprodutor { get; set; }
     }
 }

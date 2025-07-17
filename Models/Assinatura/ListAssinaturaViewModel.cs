@@ -28,6 +28,8 @@ namespace ADUSAPICore.Models.Assinatura
 
         public string? idplataforma { get; set; }
 
+        public string? idafiliado { get; set; }
+
         public string? plataforma { get; set; }
 
         public string? observacao { get; set; }
@@ -36,5 +38,6 @@ namespace ADUSAPICore.Models.Assinatura
 
         public string descstatus { get; set; }
         public string descforma { get; set; }
+        public string? nomeafiliado { get; set; }
     }
 }
