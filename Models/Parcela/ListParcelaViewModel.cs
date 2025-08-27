@@ -53,4 +53,25 @@ namespace ADUSAPICore.Models.Parcela
         public int? QuantidadeArvores { get; set; }
         public bool ischeckout { get; set; }
     }
+
+    public class MinhaParcelaViewModel
+    {
+        public int numparcela { get; set; }
+        public int? idcaixa { get; set; }
+
+        public DateTime datavencimento { get; set; }
+        public DateTime? databaixa { get; set; }
+
+        [Precision(18, 2)]
+        public decimal valor { get; set; }
+
+        public string? nossonumero { get; set; }
+
+        public string nomeparceiro { get; set; }
+
+        public DateTime? dataestimadapagto { get; set; }
+        public bool ischeckout { get; set; }
+
+        public string status { get; set; }
+    }
 }

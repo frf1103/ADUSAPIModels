@@ -26,5 +26,6 @@ namespace ADUSAPICore.Models.MovimentoCaixa
         public string idparceiro { get; set; }
         public string? nomeparceiro { get; set; }
         public string? idmovbanco { get; set; }
+        public string? idparcela { get; set; }
     }
 }

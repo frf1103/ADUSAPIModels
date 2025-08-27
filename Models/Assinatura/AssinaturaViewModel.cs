@@ -29,5 +29,6 @@ namespace ADUSAPICore.Models.Assinatura
         public string? plataforma { get; set; }
         public string? observacao { get; set; }
         public string? idafiliado { get; set; }
+        public bool? origemadus { get; set; }
     }
 }
